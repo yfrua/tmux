@@ -12,7 +12,7 @@ After that, load it to tmux by
 tmux source ~/.config/tmux/tmux.conf
 ```
 
-Finally, run `tmux` and press `Ctrl+b + I` to install the plguins.
+Finally, run `tmux` and press `Prefix + I` (`Ctrl+Space + I`) to install the plugins.
 
 ## Usage
 The prefix key is changed to `Ctrl+space` rather than `Ctrl+b`.

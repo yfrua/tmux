@@ -2,7 +2,12 @@
 Here is a tmux config file forked from Drams of Code, the tutorial video linked [here](https://www.youtube.com/watch?v=DzNmUNvnB04).
 
 ## Install
-You need to install `tpm` first to get access to plugins, by command
+First, clone this repo by:
+```bash
+git clone https://github.com/yfrua/tmux.git ~/.config
+```
+
+And install `tpm` to get access to plugins, by
 ```bash
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
